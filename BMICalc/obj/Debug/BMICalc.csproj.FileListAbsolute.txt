@@ -1,0 +1,15 @@
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\ApplicationIcon.png
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\Background.png
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\BMICalc.dll
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\BMICalc.pdb
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\AppManifest.xaml
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\BMICalc.xap
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\obj\Debug\App.g.i.cs
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\obj\Debug\MainPage.g.i.cs
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\obj\Debug\BMICalc.g.resources
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\obj\Debug\BMICalc.dll
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\obj\Debug\BMICalc.pdb
+c:\users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\obj\Debug\XapCacheFile.xml
