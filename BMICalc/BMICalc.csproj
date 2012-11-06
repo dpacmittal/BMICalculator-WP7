@@ -84,6 +84,7 @@
     </DesignData>
   </ItemGroup>
   <ItemGroup>
+    <None Include="BMICalc_2012_04_11_20_10_03.sap" />
     <None Include="Properties\AppManifest.xml" />
     <None Include="Properties\WMAppManifest.xml" />
   </ItemGroup>
@@ -94,6 +95,10 @@
     <Content Include="Background.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Resource Include="Images\root2art_dark_pattern_bitmap.gif" />
+    <Resource Include="Images\Pattern376.jpg" />
+    <Resource Include="Images\lead-214.jpg" />
+    <Resource Include="Images\redesign-designioustimes.png" />
     <Content Include="SplashScreenImage.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Microsoft\Silverlight for Phone\$(TargetFrameworkVersion)\Microsoft.Silverlight.$(TargetFrameworkProfile).Overrides.targets" />

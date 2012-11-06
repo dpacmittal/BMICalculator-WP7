@@ -1,9 +1,6 @@
 <MarketplaceDetails>
-  <SmallAppTile>
-  </SmallAppTile>
-  <LargeAppTile>
-  </LargeAppTile>
-  <PCAppTile>
-  </PCAppTile>
-  <ScreenShots>;;;;;;;;</ScreenShots>
+  <SmallAppTile>bmi-99.png</SmallAppTile>
+  <LargeAppTile>bmi-173.png</LargeAppTile>
+  <PCAppTile>bmi-200.png</PCAppTile>
+  <ScreenShots>bmi-ss.png;;;;;;;;</ScreenShots>
 </MarketplaceDetails>

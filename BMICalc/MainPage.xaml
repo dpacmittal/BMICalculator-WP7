@@ -18,7 +18,7 @@
     <!--LayoutRoot is the root grid where all page content is placed-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <!--Pivot Control-->
-        <controls:Pivot Title="BMI">
+        <controls:Pivot Title="BMI Calculator">
             <!--Pivot item one-->
             <controls:PivotItem Header="SI">
                 <!--Double line list with text wrapping-->
@@ -39,6 +39,17 @@
                     <TextBox Margin="1,162,9,0" Name="metric_bmi_box" Text="BMI" VerticalAlignment="Top" IsReadOnly="True" />
                     <Button Content="Calculate" Height="72" HorizontalAlignment="Left" Margin="3,221,0,0" Name="metric_calculate_button" VerticalAlignment="Top" Width="160" Click="metric_calculate_button_Click" />
                     <TextBlock Margin="9,306,0,0" Name="metric_bmi_desc" Text=""  />
+                </Grid>
+            </controls:PivotItem>
+            <controls:PivotItem Header="About">
+                <!--Double line list with text wrapping-->
+                <Grid>
+                    <TextBlock Margin="9,-1,0,0" Name="about" Height="608" FontSize="24" FontFamily="Segoe WP SemiLight">
+                        Application Name: BMI Calculator <LineBreak/>
+                        Version: 1.0<LineBreak/>
+                        Developed By: Deepak Mittal<LineBreak/>
+                        Contact: dpac.mittal2@gmail.com <LineBreak/>   
+                    </TextBlock>
                 </Grid>
             </controls:PivotItem>
         </controls:Pivot>

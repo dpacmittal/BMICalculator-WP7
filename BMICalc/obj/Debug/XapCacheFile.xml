@@ -1,9 +1,9 @@
-﻿<xapCache source="C:\Users\dpac\Documents\Visual Studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\BMICalc.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="02-04-2012 19:57:29">
-  <file source="C:\Users\dpac\Documents\Visual Studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="20-03-2012 19:36:03" />
-  <file source="C:\Users\dpac\Documents\Visual Studio 2010\Projects\BMICalc\BMICalc\Background.png" archivePath="Background.png" lastWriteTime="20-03-2012 19:35:57" />
-  <file source="C:\Users\dpac\Documents\Visual Studio 2010\Projects\BMICalc\BMICalc\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="20-03-2012 19:35:57" />
-  <file source="C:\Users\dpac\Documents\Visual Studio 2010\Projects\BMICalc\BMICalc\obj\Debug\BMICalc.dll" archivePath="BMICalc.dll" lastWriteTime="02-04-2012 19:57:28" />
+﻿<xapCache source="C:\Users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\BMICalc.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="11-04-2012 19:19:10">
+  <file source="C:\Users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="20-03-2012 19:36:03" />
+  <file source="C:\Users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Background.png" archivePath="Background.png" lastWriteTime="20-03-2012 19:35:57" />
+  <file source="C:\Users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="20-03-2012 19:35:57" />
+  <file source="C:\Users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\obj\Debug\BMICalc.dll" archivePath="BMICalc.dll" lastWriteTime="11-04-2012 19:19:09" />
   <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="15-09-2011 15:36:26" />
-  <file source="C:\Users\dpac\Documents\Visual Studio 2010\Projects\BMICalc\BMICalc\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="20-03-2012 19:35:57" />
-  <file source="C:\Users\dpac\Documents\Visual Studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="20-03-2012 19:43:28" />
+  <file source="C:\Users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="20-03-2012 19:35:57" />
+  <file source="C:\Users\dpac\documents\visual studio 2010\Projects\BMICalc\BMICalc\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="20-03-2012 19:43:28" />
 </xapCache>
